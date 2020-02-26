@@ -17,3 +17,7 @@ time.sleep(2)
 
 print("hello facebook")
 time.sleep(2)
+
+print("hello Orkut")
+time.sleep(2)
+
