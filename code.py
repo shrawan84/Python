@@ -11,3 +11,5 @@ print("hello google")
 time.sleep(2)
 
 
+print("hello twitter")
+time.sleep(2)
